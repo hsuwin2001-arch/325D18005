@@ -1,0 +1,32 @@
+html{scroll-behavior: smooth;}
+h1{
+    border-left: 10px solid gray;
+    border-bottom: 1px solid gray;
+    padding: 5px;
+    color:#333;
+}
+
+p{
+    width:30%;
+    border: 1px dashed gray;
+}
+
+
+p {
+    border-radius: 10px
+}
+
+p.boy{
+    color:blue;
+}
+
+p.girl{
+    color:red;
+    margin-left: 70%;
+}
+a{
+    color:white;
+    background-color: black;
+    padding: 10px;
+    text-decoration: none;
+}
